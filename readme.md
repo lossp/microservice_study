@@ -1,0 +1,1 @@
+This project is mainly based on the book <Spring Microservices in action>
